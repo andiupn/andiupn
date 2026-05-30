@@ -4,7 +4,7 @@
   <h3><strong>AI-First Workspace Scaffolder & Software Engineer</strong></h3>
   <p>Helping developers build software at lightspeed by designing highly structured, premium workspaces optimized for advanced AI Agents.</p>
 
-  <a href="https://kuncimu.com">🌐 Website (kuncimu.com)</a> · <a href="mailto:andi.upn@gmail.com">✉️ Email Support</a>
+  <a href="https://kuncimu.com">🌐 Website (kuncimu.com)</a> · <a href="mailto:andi.upn@gmail.com">✉️ Email Support</a> · <a href="https://github.com/sponsors/andiupn">💖 GitHub Sponsors</a>
 </div>
 
 <br />
@@ -106,6 +106,7 @@ If my starter templates or agent rules have accelerated your development workflo
 
 | Platform | Support Link | Target Audience |
 |---|---|---|
+| **💖 GitHub Sponsors** | [github.com/sponsors/andiupn](https://github.com/sponsors/andiupn) | Dukungan Resmi Melalui Profil GitHub Anda |
 | **🇮🇩 Saweria** | [saweria.co/andiupn](https://saweria.co/andiupn) | QRIS, GoPay, OVO, LinkAja, Dana (Lokal) |
 | **🇮🇩 Trakteer** | [trakteer.id/andi_upn](https://trakteer.id/andi_upn) | Dukungan Lokal Indonesia |
 | **☕ Ko-fi** | [ko-fi.com/andiupn](https://ko-fi.com/andiupn) | PayPal & Credit Card (International) |
