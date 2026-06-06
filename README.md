@@ -86,6 +86,68 @@ Discover my curated collection of modular workspace templates. Available as ligh
         <img src="https://img.shields.io/badge/opencode--pro-Coming%20Soon-gray?style=flat-square" alt="OpenCode PRO"/>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>🛰️ Qoder Series</b><br/>
+        <i>Next.js 16 + React 19 + Tailwind v4 + Drizzle + AI Rules System</i>
+      </td>
+      <td>
+        <a href="https://github.com/andiupn/qoder-starter">
+          <img src="https://img.shields.io/badge/qoder--starter-Free-blueviolet?style=flat-square&logo=github" alt="Qoder Starter"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://kuncimu.com">
+          <img src="https://img.shields.io/badge/qoder--pro-Buy%20PRO-gold?style=flat-square&logo=shopify" alt="Qoder PRO"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🚀 Trae Series</b><br/>
+        <i>Trae IDE AI Rules, Memories & Specialized Skills</i>
+      </td>
+      <td>
+        <a href="https://github.com/andiupn/trae-starter">
+          <img src="https://img.shields.io/badge/trae--starter-Free-cyan?style=flat-square&logo=github" alt="Trae Starter"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://kuncimu.com">
+          <img src="https://img.shields.io/badge/trae--pro-Buy%20PRO-gold?style=flat-square&logo=shopify" alt="Trae PRO"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🐘 PHP Native CRUD Series</b><br/>
+        <i>Docker PHP 8.3 + SQLite + CSRF Safety + Offline DataTables</i>
+      </td>
+      <td>
+        <a href="https://github.com/andiupn/php-native-crud-starter-free">
+          <img src="https://img.shields.io/badge/php--crud--free-Free-blue?style=flat-square&logo=github" alt="PHP CRUD Starter Free"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://kuncimu.com">
+          <img src="https://img.shields.io/badge/php--crud--prebasic-Buy%20PreBasic-gold?style=flat-square&logo=shopify" alt="PHP CRUD Starter PreBasic"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🛰️ Universal Agent Rules</b><br/>
+        <i>Gold-Standard AI Rules Installer (Cursor, Gemini, Claude, Windsurf, Kiro)</i>
+      </td>
+      <td>
+        <a href="https://github.com/andiupn/andy-universal-agent-rules">
+          <img src="https://img.shields.io/badge/universal--rules-Free-teal?style=flat-square&logo=github" alt="Universal Agent Rules"/>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/universal--rules-Included%20in%20PRO-gold?style=flat-square" alt="Included in PRO"/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
