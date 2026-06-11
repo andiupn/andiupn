@@ -35,8 +35,8 @@ Discover my curated collection of modular workspace templates. Available as ligh
         </a>
       </td>
       <td>
-        <a href="https://kuncimu.com">
-          <img src="https://img.shields.io/badge/antigravity--pro-Buy%20PRO-gold?style=flat-square&logo=shopify" alt="AntiGravity PRO"/>
+        <a href="https://github.com/sponsors/andiupn">
+          <img src="https://img.shields.io/badge/antigravity--pro-Buy%20PRO-gold?style=flat-square&logo=github" alt="AntiGravity PRO"/>
         </a>
       </td>
     </tr>
@@ -51,8 +51,8 @@ Discover my curated collection of modular workspace templates. Available as ligh
         </a>
       </td>
       <td>
-        <a href="https://kuncimu.com">
-          <img src="https://img.shields.io/badge/claude--code--pro-Buy%20PRO-gold?style=flat-square&logo=shopify" alt="Claude Code PRO"/>
+        <a href="https://github.com/sponsors/andiupn">
+          <img src="https://img.shields.io/badge/claude--code--pro-Buy%20PRO-gold?style=flat-square&logo=github" alt="Claude Code PRO"/>
         </a>
       </td>
     </tr>
@@ -67,8 +67,8 @@ Discover my curated collection of modular workspace templates. Available as ligh
         </a>
       </td>
       <td>
-        <a href="https://kuncimu.com">
-          <img src="https://img.shields.io/badge/codex--pro-Buy%20PRO-gold?style=flat-square&logo=shopify" alt="Codex PRO"/>
+        <a href="https://github.com/sponsors/andiupn">
+          <img src="https://img.shields.io/badge/codex--pro-Buy%20PRO-gold?style=flat-square&logo=github" alt="Codex PRO"/>
         </a>
       </td>
     </tr>
@@ -97,8 +97,8 @@ Discover my curated collection of modular workspace templates. Available as ligh
         </a>
       </td>
       <td>
-        <a href="https://kuncimu.com">
-          <img src="https://img.shields.io/badge/qoder--pro-Buy%20PRO-gold?style=flat-square&logo=shopify" alt="Qoder PRO"/>
+        <a href="https://github.com/sponsors/andiupn">
+          <img src="https://img.shields.io/badge/qoder--pro-Buy%20PRO-gold?style=flat-square&logo=github" alt="Qoder PRO"/>
         </a>
       </td>
     </tr>
@@ -113,8 +113,8 @@ Discover my curated collection of modular workspace templates. Available as ligh
         </a>
       </td>
       <td>
-        <a href="https://kuncimu.com">
-          <img src="https://img.shields.io/badge/trae--pro-Buy%20PRO-gold?style=flat-square&logo=shopify" alt="Trae PRO"/>
+        <a href="https://github.com/sponsors/andiupn">
+          <img src="https://img.shields.io/badge/trae--pro-Buy%20PRO-gold?style=flat-square&logo=github" alt="Trae PRO"/>
         </a>
       </td>
     </tr>
@@ -124,13 +124,13 @@ Discover my curated collection of modular workspace templates. Available as ligh
         <i>Docker PHP 8.3 + SQLite + CSRF Safety + Offline DataTables</i>
       </td>
       <td>
-        <a href="https://github.com/andiupn/php-native-crud-starter-free">
+        <a href="https://github.com/MembaraGroup/php-native-crud-starter">
           <img src="https://img.shields.io/badge/php--crud--free-Free-blue?style=flat-square&logo=github" alt="PHP CRUD Starter Free"/>
         </a>
       </td>
       <td>
-        <a href="https://kuncimu.com">
-          <img src="https://img.shields.io/badge/php--crud--prebasic-Buy%20PreBasic-gold?style=flat-square&logo=shopify" alt="PHP CRUD Starter PreBasic"/>
+        <a href="https://github.com/sponsors/andiupn">
+          <img src="https://img.shields.io/badge/php--crud--prebasic-Buy%20PreBasic-gold?style=flat-square&logo=github" alt="PHP CRUD Starter PreBasic"/>
         </a>
       </td>
     </tr>
