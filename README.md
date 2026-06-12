@@ -172,7 +172,6 @@ If my starter templates or agent rules have accelerated your development workflo
 | **🇮🇩 Saweria** | [saweria.co/andiupn](https://saweria.co/andiupn) | QRIS, GoPay, OVO, LinkAja, Dana (Lokal) |
 | **🇮🇩 Trakteer** | [trakteer.id/andi_upn](https://trakteer.id/andi_upn) | Dukungan Lokal Indonesia |
 | **☕ Ko-fi** | [ko-fi.com/andiupn](https://ko-fi.com/andiupn) | PayPal & Credit Card (International) |
-| **🎨 Patreon** | [patreon.com/AndiUpn](https://patreon.com/AndiUpn) | Monthly/Subscription Benefits |
 
 ---
 
